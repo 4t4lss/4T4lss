@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm Andres, a Baylor student in Waco
+
+I'm a vim enthusiast and I live in the terminal
+
+I love coding in C++ and Java but I'm currently trying to expand.
+
 <!--
 **4t4lss/4T4lss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
