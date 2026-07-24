@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm Andres, a Baylor student in Waco
+I'm Andres, a student at Baylor
 
-I'm a vim enthusiast and I live in the terminal
+I'm a vim enthusiast and I enjoy using the terminal and Linux
 
 I love coding in C++ and Java but I'm currently trying to expand.
 
